@@ -9,7 +9,8 @@
   "dependencies": {
     "easeljs": "^1.0.2",
     "eventemitter2": "^6.4.0",
-    "roslib": "^1.0.0"
+    "roslib": "^1.0.0",
+    "createjs-module": "^0.8.3"
   },
   "devDependencies": {
     "@rollup/plugin-buble": "^1.0.0",
